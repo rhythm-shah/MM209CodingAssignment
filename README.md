@@ -1,6 +1,6 @@
 # MM209CodingAssignment
 
-Coding Assignment - MM 209 --- 190110053, 190110074, 190110078
+Coding Assignment - MM 209 - 190110053, 190110074, 190110078
 
 Assignment is coded in MATLAB a programming language and numerical computing environment developed by MathWorks.
 
