@@ -13,4 +13,4 @@ DeltamHAl2O3 = 107500;
 DeltamSAl2O3 = 46.26;
 DeltamHCr2O3 = 117400;
 DeltamSCr2O3 = 46.35;
-are the values that we used to generate the plot.
+are the values that we used to generate the plot(References given).
